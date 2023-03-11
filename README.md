@@ -37,7 +37,7 @@ source venv/bin/activate
 Ahora instalar las dependencias dentro del `requirements.txt`:
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Luego ejecuta el programa y graba lo que quieras:
